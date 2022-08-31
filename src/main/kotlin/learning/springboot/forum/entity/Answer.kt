@@ -1,4 +1,4 @@
-package learning.springboot.forum.model
+package learning.springboot.forum.entity
 
 import java.time.LocalDateTime
 

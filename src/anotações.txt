@@ -1,0 +1,18 @@
+- REST:
+    DTO === Tudo que se devolve ou transporta dados, tendo em vista que uma API é uma aplicação que
+    transporta coisas pela rede. Form é o nome usado para dados que vem, e View é o nome usado para dados que vão.
+
+    Model/Entity === Tudo que define e parametriza os dominios de persistencia (banco de dados)
+
+    Mapper === Basicamente cria uma função e mapeia A e B para seus respectivos propositos
+
+    Exception === Define e personaliza o tratamento de erros dentro da aplicação
+
+    Service === É onde ficam as regras de negocio da aplicação
+
+- MVC:
+    Controller === Faz o controle das requisições (operações CRUD)
+
+    Model === Faz a modelagem dos dados para a aplicação
+
+    View === Camada que consome a aplicação
